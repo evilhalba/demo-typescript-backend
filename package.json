@@ -1,0 +1,16 @@
+{
+  "name": "demo-typescript-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:evilhalba/demo-typescript-backend.git",
+  "author": "Eduardo C Vilhalba <vilhalba.20000@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8",
+    "tsconfig-paths": "^3.12.0",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
